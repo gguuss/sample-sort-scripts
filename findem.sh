@@ -9,7 +9,14 @@ mkdir ../sample-sort/fills
 mkdir ../sample-sort/impacts
 mkdir ../sample-sort/percs
 mkdir ../sample-sort/hats
-mkdir ../sample-sort/
+mkdir ../sample-sort/synths
+mkdir ../sample-sort/claps
+mkdir ../sample-sort/crashes
+mkdir ../sample-sort/fx
+mkdir ../sample-sort/vox
+mkdir ../sample-sort/pads
+mkdir ../sample-sort/toms
+mkdir ../sample-sort/808s
 
 
 find . -iname "*break*.*" | sed 's/^/mv "/g' | sed 's/$/" ..\/sample-sort\/breaks' | >  breaks.sh

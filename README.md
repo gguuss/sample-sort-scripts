@@ -4,6 +4,7 @@ Tools for organizing music sample libraries.
 * bpm.sh - Sorts the output of Mixed in Key file renaming into folders by BPM.
 * key.sh - Sorts the output of Mixed in Key file renaming into folders by Key.
 * findem.sh - Creates scripts for migrating all your samples into folder by file name.
+* unzip.sh - Unzip all files in the current folder.
 
 These scripts assume you are using the GNU versions of Unix utilities, you can install them for Windows via [Cygwin](https://cygwin.org) or OSX via [Brew](https://brew.sh).
 

@@ -8,7 +8,7 @@ Tools for organizing music sample libraries.
 
 These scripts assume you are using the GNU versions of Unix utilities, you can install them for Windows via [Cygwin](https://cygwin.org) or OSX via [Brew](https://brew.sh).
 
-**Danger** This may lose your samples or create a mess, proceed with caution, consider making a backup first.
+**Danger** This may lose your samples or create a mess, proceed with caution, consider making a backup first. **This will break your project files if they are referencing the files in the unsorted samples folder**. If you want to preserve the existing files instead of move them, you can replace the `mv` commands in the `findem.sh` script with `cp`.
 
 Copy all the scripts to your music folder root:
 

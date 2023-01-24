@@ -11,4 +11,4 @@ Start with the findem.sh file run it with `bash findem.sh` and it will output a 
 
 After sorting your samples via file name, you can use Mixed in Key to rename the files via its detection algorithm.
 
-With the files renamed by Mixed in Key, run the bpm.sh script to organize into BPM folders or key.sh to organize by key.
+With the files renamed by Mixed in Key, run the `bpm.sh` script to organize into BPM folders or `key.sh` to organize by key.
